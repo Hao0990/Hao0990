@@ -22,5 +22,3 @@ Vvoid builds practical AI products for businesses that can't afford large teams.
 Starting with voice — expanding from there.
 
 ---
-
-📩 Reach me via LinkedIn
